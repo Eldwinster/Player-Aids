@@ -20,6 +20,9 @@
 
 - [[file:iron-helm/cards-point-tracks.pdf]]
 
+* Print as it is
+- [[file:gate/GateFoldingRuleSet.pdf]]
+
 * Booklet
 - [[file:dungeon-degenerates/Dungeon_Degenerate_as_RPG_-_BGG.pdf]]
   rulebook style
