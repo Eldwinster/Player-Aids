@@ -13,9 +13,22 @@
 - [[file:dungeon-degenerates/DungDegen_Reference_Cards.pdf]]
   recto verso
 
+- [[file:iron-helm/Iron_Helm_Comprehensive_Trackers_v1_220908.pdf]]
+  pas de recto verso
+
+- [[file:iron-helm/theIronHelper.pdf]]
+
+- [[file:iron-helm/cards-point-tracks.pdf]]
+
 * Booklet
 - [[file:dungeon-degenerates/Dungeon_Degenerate_as_RPG_-_BGG.pdf]]
   rulebook style
 
 - [[file:dungeon-degenerates/Lowlife_01.pdf]]
   zine (magazine) style
+
+- [[file:iron-helm/IRON_HELM_FAQ_V1.1.pdf]]
+  at the printer's discretion
+
+- [[file:iron-helm/Iron_Helm_Campaign_Rules_and_FAQv1.0.pdf]]
+  at the printer's discretion
